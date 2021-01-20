@@ -5,3 +5,7 @@ Modificación archivo 1 para pruebas
 Test Merge conflict 
 
 Pruebas para romper archivo
+
+-----
+
+Explosion para santi
