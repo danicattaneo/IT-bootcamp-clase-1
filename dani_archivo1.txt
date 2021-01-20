@@ -12,3 +12,6 @@ Para que generen conflicto
 --------
 
 Nuevos cambios para romper
+Prueba para GitHub Desktop
+
+Merge Conflict
